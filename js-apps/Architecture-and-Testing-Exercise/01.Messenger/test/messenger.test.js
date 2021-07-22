@@ -3,7 +3,7 @@ const { expect } = require('chai');
 
 let browser;
 let page;
-let clientUrl = 'http://127.0.0.1:5500/workshop/js-apps/Architecture-and-Testing-Exercise/01.Messenger/index.html'
+let clientUrl = 'http://127.0.0.1:5501/workshop/js-apps/Architecture-and-Testing-Exercise/01.Messenger/index.html'
 
 
 function fakeResponse(data) {
